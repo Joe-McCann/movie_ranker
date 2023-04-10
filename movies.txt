@@ -1,0 +1,299 @@
+Memento,Thriller/Mystery,2005
+Saving Private Ryan,Action,1851
+The Dark Knight,Action/DC,1839
+Train to Busan,Horror/Drama/Ariana,1824
+Parasite,Thriller,1818
+Spinal Tap,Comedy,1787
+Star Wars: Revenge of the Sith,Fantasy/Star Wars/Ariana,1778
+Monty Python and the Holy Grail,Comedy,1755
+Return of the King,Fantasy,1694
+Last Crusade,Action,1692
+Hot Fuzz,Comedy,1680
+Shawshank Redemption,Drama,1640
+I Saw The Devil,Thriller/Horror/Ariana,1614
+The Arrival,Drama/Sci-Fy,1613
+Everything Everywhere All at Once,SciFi/Action/Drama,1609
+Empire Strikes Back,Fantasy/Star Wars/Ariana,1567
+Silence of the Lambs,Thriller/Horror/Ariana,1560
+Lost Boys,Horror/Comedy/Ariana,1546
+The Batman,Mystery/Superhero/Comic Book/DC/Devin,1542
+Airplane,Comedy,1537
+Signs,Thriller,1530
+The Exorcist,Horror/Ariana,1521
+Rogue One,Fantasy/Star Wars/Ariana,1507
+Little Miss Sunshine,Comedy,1505
+The Prestige,Mystery/Drama,1502
+The Deer Hunter,Action,1500
+Children of Men,Action/Adventure,1495
+Inception,Drama,1492
+Pulp Fiction,Action,1489
+The Ring,Horror/Suspense/Mystery/Thriller/Devin,1485
+No Country for Old Men,Thriller,1484
+A Bronx Tale,Drama,1484
+Green Mile,Drama,1483
+The Black Phone,Thriller/Horror/Ariana,1473
+My Cousin Vinny,Comedy,1472
+Se7en,Thriller,1459
+The Departed,Thriller,1459
+Halloween (2018),Horror,1458
+Pirates of the Carribean: Curse of the Black Pearl,Action/Adventure/Disney,1452
+One flew over the Cukoos nest,Drama,1439
+Joker,Thriller,1435
+Fargo,Comedy/Drama,1428
+Unforgiven,Action/Western/Drama,1419
+Hell House LLC,Horror/Ariana,1407
+Dodgeball,Comedy,1406
+Seven Samurai,Drama/Epic/Action,1390
+The Two Towers,Fantasy,1374
+Spongebob Movie,Kids/Comedy,1370
+Halloween,Horror/Ariana,1365
+Fellowship of the Ring,Fantasy,1364
+Leon the Professional,Action,1363
+Hurt Locker,Action,1357
+Knives Out,Mystery,1341
+The Thing,Horror,1338
+The Usual Suspects,Thriller/Mystery/Suspense,1332
+Deadpool 2,Action/Comedy/Marvel,1331
+Glass Onion,Mystery/Murder,1319
+Gran Torino,Drama,1319
+Malignant,Horror/Action/Thriller/Suspense,1315
+Apocolypse Now,Thriller,1315
+Sinister,Horror/Ariana,1308
+The Autopsy of Jane Doe,Horror/Ariana,1308
+Goodfellas,Mob/Drama,1307
+Jojo Rabbit,Drama/Comedy,1306
+Eternal Sunshine of the Spotless Mind,Drama,1303
+Wonder Woman,Action/DC,1300
+Tenet,Action/Heist,1300
+Requiem for a Dream,Drama,1296
+Green Room,Thriller/Horror,1295
+Baby Driver,Action,1286
+Mean Girls,Comedy,1283
+The Shining,Horror/Suspense,1276
+Nope,Horror/Thriller/Suspense/Ariana,1262
+Scream,Horror/Mystery/Ariana,1257
+Tucker and Dale vs. Evil,Horror/Comedy/Ariana,1255
+The Princess Bride,Fantasy,1255
+The Last Jedi,Fantasy/Star Wars,1248
+The Suicide Squad (2021),Action/Comedy/DC,1245
+Scream 6,Horror/Mystery/Slasher/Ariana/Devin,1243
+Popstar,Comedy,1240
+1917,Action/War,1239
+Blakkklansmen,Drama,1239
+A New Hope,Fantasy/Star Wars/Ariana,1236
+Dr. Sleep,Thriller/Horror/Suspense,1236
+Raiders of the Lost Ark,Action,1233
+Stand By Me,Drama,1223
+Once Upon a Time in Hollywood,Thriller,1222
+Hereditary,Horror/Ariana,1222
+The VVitch,Thriller,1221
+Shaun of the Dead,Comedy/Horror,1217
+Phantom Menace,Fantasy/Star Wars/Ariana,1217
+Million Dollar Baby,Drama/Action,1217
+Endgame,Action/Marvel,1206
+Scream 2022,Horror/Scream/Ariana,1204
+White Heat,Crime/Thriller/Classic,1200
+It 2016,Horror/Comedy/Ariana,1199
+Spiderman No Way Home,Action/Marvel,1198
+Donnie Darko,Thriller,1190
+Event Horizon,Horror/Mystery/Scify/Ariana/Devin,1186
+Kairo (Pulse),Horror/Suspense/Thriller/Japanese/Foreign/Ariana,1185
+Return of the Jedi,Fantasy/Star Wars,1183
+Into the Spiderverse,Animated,1181
+Brain Dead,Horror/Comedy,1165
+Cape Fear,Thriller/Horror/Suspense,1163
+Candyman,Horror/Ariana,1161
+La la land,Drama,1151
+Saw,Horror/Ariana,1148
+Conjuring 2,Horror,1145
+Black Panther,Action/Marvel,1143
+Rocky Horror Picture Show,Comedy/Musical/Ariana,1143
+Smile,Horror/Suspense/Ariana,1142
+Fright Night,Horror/80s,1127
+Forrest Gump,Drama,1127
+12 Angry Men,Drama,1125
+Halloween Resurrection,Horror/So Bad its good,1110
+Gremlins,Horror,1110
+Sorcerors Stone,Fantasy,1107
+The Host,Horror/Ariana,1092
+The Verdict,Drama,1091
+Final Destination 5,Horror/Ariana,1076
+Miss Congeniality,Comedy,1074
+Incredibles,Animated,1071
+Final Destination,Horror/Ariana,1065
+Rain Man,Drama,1061
+Back to the Future,SciFi,1057
+Dr. Strange Multiverse of Madness,Action/Marvel/Disney/Horror,1056
+Nightcrawler,Thriller,1056
+Batman Begins,Action/DC,1045
+Reservoir Dogs,Drama/Action,1033
+Saaho,Bollywood/Action/Bad,1026
+Booksmart,Comedy,1026
+Lion King,Animated,1023
+Last Night in Soho,Mystery/Thriller/Ariana,1020
+Stuber,Comedy/Action,1018
+Scary Movie,Comedy/Ariana,1017
+Black Panther: Wakanda Forever,Marvel/Superhero/Action/Devin,1016
+Southpaw,Drama/Action,1015
+Mississippi Burning,Drama,1013
+Up,Disney/Animated/Denisse,1013
+Chamber of Secrets,Fantasy,1012
+Snakes on a Plane,Action/Suspense/So Bad its good,1010
+The Dark Knight Rises,Action/DC,1006
+Saw 2,Horror/Ariana,998
+Insidious,Horror/Arirna,997
+Big Hero 6,Disney/Animated/Action/Denisse,992
+Last Samurai,History/Drama/Action,988
+O Brother Where Art Thou?,Comedy/Drama,987
+The Menu,Horror/Comedy,987
+High School Musical,Drama,985
+Temple of Doom,Action,973
+Creepshow 2,Horror/Anthology,970
+Philedalphia,Drama,969
+Shazam,Action/DC/Ariana,969
+Deadpool,Action/Comedy/Marvel,967
+Exorcism of Emily Rose,Horror,950
+The Ritual,Thriller/Horror/Ariana/Devin/Joe,948
+Sound of Music,Drama,947
+Attack of the Clones,Fantasy/Star Wars/Ariana,946
+Childs Play,Horror/Ariana,946
+Identity,Thriller/Mystery,943
+Why Him?,Comedy,937
+The Babadook,Horror/Ariana,932
+Jumanji Reboot,Comedy,930
+Three Idiots,Bollywood/Drama/Comedy,930
+Scott Pilgrim vs The World,Action/Comic,929
+Toy Story,Animated,925
+Antman: Quantumania,Marvel/Superhero/Action/Devin/Denisse,924
+Boys State,Documentary/Politics/Devin,923
+West Side Story,Drama,920
+Nightmare on Elm Street Part 2,Horror/Ariana,920
+Shrek,Animated,919
+Finding Nemo,Animated,916
+Avengers,Action/Marvel,915
+Capatin America Civil War,Action/Marvel,902
+Empire of The Sun,Drama,900
+Shang Chi: Legend of the 10 Rings,Action/Marvel,899
+Saint Maud,Horror/Thriller/Suspense/Ariana,898
+Rocky,Action,898
+Spiral,Horror/Mystery/Ariana,894
+Hoodwinked,Animated/Comedy/Mystery,893
+Halloween Kills,Horror/Ariana,888
+Shrek 2,Animated/Kids/Comedy,881
+Extremely Wicked Shockingly Evil and Vile,Drama,881
+The Crying Game,Action,875
+Paranormal Activity,Horror,872
+Halloweentown,Disney/Kids,870
+Paperhouse,Drama/Fantasy,869
+Iron Man,Action/Marvel/Disney/Superhero/Comic Book,859
+The Lost City,Romcom,857
+Devils Advocate,Thriller/Drama,855
+Patton,Drama,853
+Beauty and the Beast,Animated,850
+Dunkirk,Action,843
+Elf,Christmas/Comedy,840
+Knock on the Cabin Door,Mystery/Thriller/Suspense/Ariana/Devin,833
+Fear Street 1994,Horror,831
+Who Framed Roger Rabbit,Animated/Mystery,829
+Ferris Beuller's Day Off,Comedy,826
+Apollo 13,Drama,826
+Fractured,Thriller,825
+Spiderman Far from Home,Action/Marvel,825
+Friday the 13th 2009,Horror/Ariana,825
+Juno,Drama,823
+American Sniper,Action,821
+Spiderman Homecoming,Action/Marvel,816
+Force Awakens,Fantasy/Star Wars,813
+As Above so Below,Horror/Ariana,805
+Now You See Me 2,Action/Drama,803
+Grease,Musical,801
+Hell House LLC 2,Horror/Ariana,795
+Cinderella,Animated/Disney,795
+Lincoln,Drama,794
+Tangled,Animated,786
+The Man from UNCLE,Action/Adventure,778
+Suicide Squad,Action/DC,770
+Groundhog Day,Comedy,765
+At Worlds End,Comedy,762
+Death of Me,Horror/Mystery/Ariana,760
+Infinity War,Action/Marvel,750
+Creep,Horror,748
+Us,Horror/Ariana,748
+Cars,Animated/Disney,742
+Dead Poet's Society,Drama,736
+Willy Wonka and the Chocolate Factory,Musical,730
+Planet of the Apes (1968),SciFy,717
+Glory,Drama,717
+Snow White,Animated,708
+500 Days of Summer,Romcom,707
+Childs Play 2019,Horror,705
+Hell House LLC 3,Horror/Ariana,698
+Fundementals of Caring,Drama/Feel Good,695
+Wizard of Oz,Musical,687
+Prisoner of Azkhaban,Fantasy,678
+Shes the Man,Romcom,677
+Duff,Comedy/Romcom/Denisse,672
+Bridge to Terabithia,Drama,664
+Order of the Pheonix,Fantasy,643
+Velocipaster,Action/Comedy/So bad its good/Devin,642
+Ghosts of War,Horror/Mystery/Suspense/Ariana,633
+Antman,Action/Marvel,631
+Demonic ,Horror/James Wan/Ariana,630
+It Original,Horror,630
+Goblet of Fire,Fantasy,616
+Rise of Skywalker,Fantasy/Star Wars,613
+Death on the Nile,Mystery,606
+Deathly Hallows Part 1,Fantasy,604
+Good Morning Vietnam,Drama/Comedy,600
+Contagion,SciFy,599
+Captain America,Action/Marvel,597
+Thor,Action/Marvel,595
+Resident Evil Welcome to Raccoon City,Horror/Action,594
+The Devil All the Time,Drama,590
+Incredibles 2,Action/Animated/Disney,586
+Disturbia,Horror/Thriller/Ariana,585
+Camp Rock,Disney/Kids/Musical,584
+The Proposal,Romcom,584
+Batman vs. Superman,Action/DC,582
+Killer Klowns from Outer Space,Horror/Comedy/Ariana,581
+All the Presidents Men,Drama,573
+Saw 3,Horror/Ariana,570
+The Package,Comedy,570
+Pirates! Band of Misfits,Kids/Comedy,570
+WallE,Animated,568
+Deathly Hallows Part 2,Fantasy,558
+Murder on the Orient Express,Mystery,558
+The Martian,SciFi,539
+Hunger Games,Action,530
+Halloweentown 2 Kalabars Revenge,Disney/Kids,521
+Spawn,Comic/Action/Bad,519
+Amazing Spiderman,Action/Marvel,517
+Doorway to Hell,Crime/Drama/Classic,516
+Kadaver,Thriller/Suspense,512
+Erin Brockovitch,Drama,482
+Hits,Comedy,476
+The Butler,Drama,457
+Solo,Action/Adventure/Star Wars/Disney/Ariana,452
+The Conjuring 3,Horror,415
+Fantastic Beasts and Where to find them,Fantasy,413
+Rise of the Planet of the Apes,SciFy,411
+Spotlight,Drama,411
+Mocking Jay Part 2,Action,409
+Half Blood Prince,Fantasy,407
+Kingdom of the Crystal Skull,Action,387
+Crimes of Grindlewald,Fantasy,387
+The Christmas Prince,Romcom,366
+The Boy in the Striped Pajamas,Drama,364
+Paperboy,Drama,345
+Quiet Place 2,Horror/Thriller,338
+The Giver,Drama/Dystopian,314
+Catching Fire,Action,301
+The Devil Below,Horror/Mystery/Ariana,301
+Woman in the Window,Thriller/Mystery/Suspense/Ariana,298
+The Lie,Mystery/Suspense,281
+Selma,Drama,240
+Iron Man 3,Action/Marvel,225
+Happytime Murders,Comedy,208
+It Chapter 2 2019,Horror/Comedy,207
+Avatar,Action,170
+Step Brothers,Comedy,55
