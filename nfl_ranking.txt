@@ -1,0 +1,32 @@
+49ers,San Fran,1765
+Eagles,Philly,1752
+Chiefs,Kansas City,1729
+Bills,Buffalo,1717
+Cowboys,Dallas,1627
+Lions,Detroit,1619
+Ravens,Baltimore,1590
+Seahawks,Seattle,1578
+Buccaneers,Tampa,1573
+Dolphins,Miami,1562
+Steelers,Pittsburg,1528
+Rams,LA,1522
+Packers,Green Bay,1510
+Chargers,San Diego,1505
+Browns,Cleaveland,1504
+Bengals,Cincy,1493
+Jaguars,Jacksonville,1490
+Titans,Tennesse,1487
+Commanders,Washington,1486
+Saints,New Orleans,1469
+Patriots,New England,1455
+Falcons,Atlanta,1437
+Vikings,Minnisota,1433
+Giants,NYC,1418
+Colts,Indianapolis,1413
+Texans,Houstan,1412
+Jets,NYC,1386
+Cardinals,Arizona,1386
+Raiders,Vegas,1385
+Broncos,Denver,1339
+Panthers,Carolina,1304
+Bears,Chicago,1222

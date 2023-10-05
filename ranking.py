@@ -2,7 +2,7 @@ import math
 import random
 import matplotlib.pyplot as plt
 
-K = 200
+K = 100
 elo_buffer = .1
 provisionals = 10
 
@@ -104,6 +104,12 @@ def kmeans(clusters, videos):
 
     return edges, means, cluster
 
+def get_from_title(videos, title):
+    for i in range(len(videos)):
+        if videos[i]["title"] == title:
+            return i
+    return -1
+
 videos = []
 
 with open("movies.txt", "r") as vidFile:
@@ -112,7 +118,7 @@ with open("movies.txt", "r") as vidFile:
         videos.append({"title":data[0], "genre":data[1], "elo":int(data[2])})
 
 while True:
-    decision = input("Would you like to quit(0), enter a new movie(1), do a random match(2), see the rankings(3), \ndo a ranked match(4), get partial rankings(5), plot elo(6), or search(7): ")
+    decision = input("Would you like to quit(0), enter a new movie(1), do a random match(2), see the rankings(3), \ndo a ranked match(4), get partial rankings(5), plot elo(6), search(7), or choose a match(8): ")
     if decision == "1":
         newVideo(videos)
     elif decision == "2": 
@@ -141,6 +147,21 @@ while True:
     elif decision == "7":
         movie = input("What movie are you looking for: ")
         search(videos, movie)
+    elif decision == "8":
+        a, b = -1, -1
+        while a == -1:
+            title = input("Enter the title of the first movie you want: ")
+            a = get_from_title(videos, title)
+            if a == -1:
+                print("That movie was not found, please try again")
+        while b == -1:
+            title = input("Enter the title of the second movie you want: ")
+            b = get_from_title(videos, title)
+            if b == -1:
+                print("That movie was not found, please try again")
+        
+        match(videos[a], videos[b])
+        
     else:
         break
 
