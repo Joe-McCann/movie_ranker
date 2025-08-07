@@ -1,1 +1,4 @@
 .venv/
+songs.csv
+movies*.csv
+*.xlsx
